@@ -1,0 +1,3 @@
+include ':lockview'
+include ':app'
+rootProject.name = "PatternLock"
